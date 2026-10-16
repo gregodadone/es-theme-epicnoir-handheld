@@ -1,0 +1,24 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Nintendo DS</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Nintendo DS</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>2004 · 32-bit handheld console</text>
+      <text lang="es">2004 · Consola Portatil 32-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The Nintendo DS is a handheld console with two LCD screens that can operate at the same time.</text>
+      <text lang="es">La Nintendo DS es una consola de doble pantalla LCD en la que ambas pantallas funcionaban al mismo tiempo</text>
+    </text>
+  </view>
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Capcom CPS-3</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Capcom</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>CPS-3</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1996 · 32-bit arcade board</text>
+      <text lang="es">1996 · Placa Arcade 32-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The Capcom Play System III was its last arcade board before moving to Sega Naomi. Only six games were released, all fighting games.</text>
+      <text lang="es">La Capcom Play System III fue la última placa de Capcom antes de migrar a Sega Naomi. Sólo salieron 6 juegos para la misma, todos de lucha</text>
+    </text>
+  </view>
+</theme>

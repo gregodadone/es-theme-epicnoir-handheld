@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Racing Games</text>
+      <text lang="es">Género Carreras</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Racing</text>
+      <text lang="es">Carreras</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Game genre</text>
+      <text lang="es">Género de juegos</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>In racing games, the player competes in a vehicle against other players or the computer.</text>
+      <text lang="es">En un juego de carreras el jugador compite abordo de un vehículo en una carrera contra otros jugadores o contra la CPU</text>
+    </text>
+  </view>
+</theme>

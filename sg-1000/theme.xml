@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Sega SG-1000</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>SG-1000</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1983 · 8-bit console</text>
+      <text lang="es">1983 · Consola 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The first Sega console, following its success with jukeboxes and arcade machines in the 1970s.</text>
+      <text lang="es">Primera consola de Sega luego del éxito demostrado en las rockolas y máquinas Arcade en los 70s</text>
+    </text>
+  </view>
+</theme>

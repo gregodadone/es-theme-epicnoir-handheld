@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Microsoft MS-DOS</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Microsoft</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>MS-DOS</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1981 · Desktop computers</text>
+      <text lang="es">1981 · Computadoras de escritorio</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>MS-DOS is an operating system for x86 machines developed by Microsoft. It preceded Windows and served as its foundation through Windows 95.</text>
+      <text lang="es">MS-DOS es un sistema operativo para máquinas x86 desarrollado por Microsoft. Es el predecesor y base de Windows hasta Windows 95</text>
+    </text>
+  </view>
+</theme>

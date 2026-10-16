@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>X68000</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sharp</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>X68000</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1987 · 32-bit computer</text>
+      <text lang="es">1987 · Computadora 32-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>A home computer sold only in Japan, with hardware very similar to contemporary arcade machines.</text>
+      <text lang="es">La X68000 es una computadora doméstica, vendida sólo en Japón. Era muy similar en hardware a las máquinas Arcade de la época</text>
+    </text>
+  </view>
+</theme>

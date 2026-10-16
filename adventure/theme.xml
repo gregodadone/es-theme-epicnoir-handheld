@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Adventure Games</text>
+      <text lang="es">Género Aventura</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Adventure</text>
+      <text lang="es">Aventura</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Game genre</text>
+      <text lang="es">Género de juegos</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>In adventure games, the player follows a story through exploration and puzzle solving.</text>
+      <text lang="es">En los juegos de aventura el jugador sigue una historia, guiada por la exploración y la resolución de acertijos</text>
+    </text>
+  </view>
+</theme>

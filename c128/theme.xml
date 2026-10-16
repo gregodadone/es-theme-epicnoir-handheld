@@ -1,0 +1,24 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Commodore 128</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Commodore 128</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1982 · 8-bit computer</text>
+      <text lang="es">1982 · Computadora 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The C128 was the last 8-bit home computer sold by Commodore Business Machines.</text>
+      <text lang="es">La C128 fue la última computadora doméstica de 8 bits comercializada por Commodore Business Machines</text>
+    </text>
+  </view>
+</theme>

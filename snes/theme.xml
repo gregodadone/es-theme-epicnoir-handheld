@@ -1,0 +1,24 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Super Nintendo</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Super Nintendo</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1990 · 16-bit console</text>
+      <text lang="es">1990 · Consola 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The second Nintendo home console succeeded the NES and became an instant success, helped by its bundled game, Super Mario World.</text>
+      <text lang="es">Segunda consola de Nintendo, sucesora de la NES, fue un éxito instantaneo, en gran medida debido a que venía incluido el juego Super Mario World</text>
+    </text>
+  </view>
+</theme>

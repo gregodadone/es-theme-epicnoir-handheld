@@ -1,0 +1,30 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Favorite Games</text>
+      <text lang="es">Juegos Favoritos</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Games</text>
+      <text lang="es">Juegos</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Favorites</text>
+      <text lang="es">Favoritos</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>All consoles and computers</text>
+      <text lang="es">Todas las consolas y computadoras</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Your favorite games from your collection.</text>
+      <text lang="es">Los juegos favoritos de su colección</text>
+    </text>
+  </view>
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Super Famicom</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Nintendo</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Super Famicom</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1990 · 16-bit console</text>
+      <text lang="es">1990 · Consola 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The Japanese version of the Super Nintendo shared hardware with the American version but used a different casing.</text>
+      <text lang="es">Versión japonesa de la Super Nintendo que compartía el mismo hardware de la versión americana pero distinta carcasa</text>
+    </text>
+  </view>
+</theme>

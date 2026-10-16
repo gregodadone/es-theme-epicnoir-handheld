@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Amiga CD32</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Commodore</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Amiga CD32</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1993 · 32-bit console</text>
+      <text lang="es">1993 · Consola 32-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The first 32-bit CD-based video game console. Released on September 16, 1993, it was discontinued after only eight months.</text>
+      <text lang="es">Primera videoconsola de la historia con CD y 32 bits. Fue lanzada el 16 de Septiembre de 1993 y descontinuada después de sólo 8 meses</text>
+    </text>
+  </view>
+</theme>

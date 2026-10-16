@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Sony Playstation</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sony</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Playstation</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1994 · 32-bit console</text>
+      <text lang="es">1994 · Consola 32-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The first Sony console emerged after a failed agreement to develop a console with Nintendo and ultimately outsold the Nintendo 64.</text>
+      <text lang="es">Fue la primera consola de Sony. Nació tras un acuerdo fallido con Nintendo de crear una consola en común, y terminó superando en éxito a la Nintendo 64</text>
+    </text>
+  </view>
+</theme>

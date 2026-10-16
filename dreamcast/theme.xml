@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Sega Dreamcast</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Dreamcast</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1998 · 128-bit console</text>
+      <text lang="es">1998 · Consola 128-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Sega&apos;s final console marked its departure from the console market after 18 years. It was the first 128-bit console.</text>
+      <text lang="es">Fue la última consola de Sega, marcando su retiro del mercado de consolas después de 18 años. Fue la primera consola de 128 bits</text>
+    </text>
+  </view>
+</theme>

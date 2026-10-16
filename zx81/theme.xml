@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>SINCLAIR ZX-81</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sinclair</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>ZX-81</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1980 · 8-bit computer</text>
+      <text lang="es">1980 · Computadora 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The ZX81 was notable for its low price. Programs were loaded and saved using ordinary audio cassettes.</text>
+      <text lang="es">La ZX-81 fue notable en su época por ser muy barata. Los programas se leían y grababan en casetes de audio comunes</text>
+    </text>
+  </view>
+</theme>

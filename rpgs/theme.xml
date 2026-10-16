@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Role-Playing Games</text>
+      <text lang="es">Juegos de rol RPG</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Role-Playing Games (RPG)</text>
+      <text lang="es">Juegos de rol (RPG)</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Game genre</text>
+      <text lang="es">Género de juegos</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>In role-playing games, the player controls characters immersed in a virtual or fantasy world.</text>
+      <text lang="es">En un juego de rol, el jugador controla las acciones de personajes inmersos en un mundo virtual o de fantasía</text>
+    </text>
+  </view>
+</theme>

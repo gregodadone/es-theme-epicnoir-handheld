@@ -1,0 +1,24 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>UZEBOX</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Uzebox</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>2007 · 8-bit console</text>
+      <text lang="es">2007 · Consola 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>An open-source console with a minimalist design. Preassembled versions are sold, but you can also build one yourself.</text>
+      <text lang="es">La Uzebox es una consola open source con diseño minimalista. Aunque se comercializan versiones pre-armadas, uno mismo puede construirla</text>
+    </text>
+  </view>
+</theme>

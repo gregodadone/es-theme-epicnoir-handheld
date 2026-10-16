@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Options</text>
+      <text lang="es">Opciones</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Options</text>
+      <text lang="es">Opciones</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>System settings</text>
+      <text lang="es">Configuración del sistema</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Configure hardware, Bluetooth and networks. Install updates, add-ons and themes.</text>
+      <text lang="es">Configuración del hardware, bluetooth y redes. Instalación de actualizaciones, complementos y temas</text>
+    </text>
+  </view>
+</theme>

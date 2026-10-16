@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>SNES Sufami Turbo</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Bandai</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Sufami Turbo (SNES)</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1996 · 16-bit console</text>
+      <text lang="es">1996 · Consola 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>An accessory for the Super Nintendo with two cartridge slots, allowing games to be combined or to use more data than a single cartridge.</text>
+      <text lang="es">Accesorio para la Super Nintendo que tenía 2 ranuras para cartuchos para poder combinar juegos o soportar juegos que pesaban más que un cartucho</text>
+    </text>
+  </view>
+</theme>

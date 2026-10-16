@@ -1,0 +1,23 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Atari 7800</text>
+    </text>
+  </view>
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Atari 7800</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1986 · 8-bit console</text>
+      <text lang="es">1986 · Consola 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Fully compatible with the Atari 2600, the 7800 was the first console to offer backward compatibility without additional hardware.</text>
+      <text lang="es">Completamente compatible con la Atari 2600, la 7800 fue la primera consola de la historia en tener retrocompatibilidad sin hardware adicional</text>
+    </text>
+  </view>
+</theme>

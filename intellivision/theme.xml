@@ -1,0 +1,24 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Intellivision</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Intellivision</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1980 · 8-bit console</text>
+      <text lang="es">1980 · Consola 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The Intellivision was a home console released by Mattel Electronics that competed directly with the Atari 2600.</text>
+      <text lang="es">La Intellivision fue una consola doméstica lanzada por Mattel Electronics, y compitió directamente con la Atari 2600</text>
+    </text>
+  </view>
+</theme>

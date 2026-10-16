@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Atari Jaguar</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Atari</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Jaguar</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1993 · 64-bit console</text>
+      <text lang="es">1993 · Consola 64-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The first 64-bit console and the last from Atari. It offered powerful hardware but a small library of games of uneven quality.</text>
+      <text lang="es">Primera consola de 64 bits de la historia y última de Atari. Tenía una gran potencia pero un escaso repertorio de baja calidad.</text>
+    </text>
+  </view>
+</theme>

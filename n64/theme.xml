@@ -1,0 +1,24 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Nintendo 64</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Nintendo 64</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1996 · 64-bit console</text>
+      <text lang="es">1996 · Consola 64-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The Nintendo 64 was the first Nintendo console to support 3D games and the last to use cartridges as its primary storage.</text>
+      <text lang="es">La Nintendo 64 fue la primera consola de Nintendo en soportar juegos en 3D y la última en usar cartuchos como almacenamiento</text>
+    </text>
+  </view>
+</theme>

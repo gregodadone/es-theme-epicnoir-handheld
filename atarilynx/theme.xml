@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Atari Lynx</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Atari</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Lynx</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1989 · 16-bit handheld console</text>
+      <text lang="es">1989 · Consola de Mano 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The Lynx was the first handheld console with a color LCD, notable for its advanced graphics and ambidextrous design.</text>
+      <text lang="es">La Lynx fue la primera consola de mano de la historia con una pantalla color LCD, y era notable por sus gráficos avanzados y su diseño ambidiestro</text>
+    </text>
+  </view>
+</theme>

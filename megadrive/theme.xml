@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Sega Megadrive</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Mega Drive</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1988 · 16-bit console</text>
+      <text lang="es">1988 · Consola 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Released in Japan as the Mega Drive and in the West as the Genesis. It was the third Sega console and succeeded the Master System.</text>
+      <text lang="es">Lanzada en Japón como Mega Drive y en occidente como Genesis. 3ra consola de Sega, sucesora de la Master System</text>
+    </text>
+  </view>
+</theme>

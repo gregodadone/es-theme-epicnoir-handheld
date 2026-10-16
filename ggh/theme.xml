@@ -1,0 +1,28 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Game Gear Hacks</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sega (Hacks and Homebrew)</text>
+      <text lang="es">Sega (Hacks y Homebrews)</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Game Gear</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1990 · 8-bit handheld console</text>
+      <text lang="es">1990 · Consola Portatil 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Modified games and games made by enthusiasts or companies without a Sega license.</text>
+      <text lang="es">Juegos hackeados o creados por aficionados o empresas pero no licenciados por Sega</text>
+    </text>
+  </view>
+</theme>

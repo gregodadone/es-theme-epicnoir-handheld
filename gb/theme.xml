@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Nintendo Game Boy</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Nintendo</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Game Boy</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1989 · 8-bit handheld console</text>
+      <text lang="es">1989 · Consola Portatil 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The first Nintendo handheld to use removable cartridges. Its green dot-matrix display had a resolution of 160 by 144 pixels.</text>
+      <text lang="es">Primera consola portatil de Nintendo en permitir el uso de cartuchos removibles. Su pantalla era de matriz de puntos verde con una resolución de 160x144 píxeles</text>
+    </text>
+  </view>
+</theme>

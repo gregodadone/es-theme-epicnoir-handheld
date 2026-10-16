@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Neo Geo Pocket</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>SNK</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Neo-Geo Pocket</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1998 · 16-bit handheld console</text>
+      <text lang="es">1998 · Consola Portatil 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>It lasted only a year before being replaced by the Neo Geo Pocket Color. Its monochrome screen contributed to poor sales.</text>
+      <text lang="es">Duró sólo un año y fue retirada y reemplazada por la Neo Geo Pocket Color. Tuvo malas ventas debido a su pantalla monocromo</text>
+    </text>
+  </view>
+</theme>

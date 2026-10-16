@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Action Games</text>
+      <text lang="es">Género Acción</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Action</text>
+      <text lang="es">Acción</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Game genre</text>
+      <text lang="es">Género de juegos</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Action games emphasize physical challenges, hand-eye coordination and quick reflexes.</text>
+      <text lang="es">Los juegos de acción enfatizan en cambios físicos, requieren coordinación mano-ojos y rápidos reflejos</text>
+    </text>
+  </view>
+</theme>

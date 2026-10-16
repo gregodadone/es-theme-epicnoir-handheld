@@ -1,0 +1,28 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>PC Engine CD</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>NEC</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <fontSize>0.17</fontSize>
+      <text>PC Engine CD-ROM</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1988 · 16-bit add-on</text>
+      <text lang="es">1988 · Accesorio 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>An add-on for the PC Engine that played CD-ROM games, offering graphics and sound improvements and additional multimedia capabilities.</text>
+      <text lang="es">La PC-Engine CD fue una extensión de la consola PC-Engine que permitía leer juegos en formato CD-ROM, ofreciendo mejoras gráficas y de sonido, así como capacidades multimedia adicionales.</text>
+    </text>
+  </view>
+</theme>

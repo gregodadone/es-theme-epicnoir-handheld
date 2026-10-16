@@ -1,0 +1,23 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>J2ME</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>J2ME</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Java</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Technology that lets developers use Java and related tools to create programs for mobile devices.</text>
+      <text lang="es">Tecnología que permite a programadores usar el lenguaje Java y herramientas relacionadas para desarrollar programas para dispositivos móviles</text>
+    </text>
+  </view>
+</theme>

@@ -1,0 +1,24 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>FinalBurn Neo</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>FinalBurn Neo</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>2020 · arcade emulator</text>
+      <text lang="es">2020 · Emulador Arcade</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>An emulator for coin- or token-operated arcade machines found in bars and neighborhoods from the 1970s through the 2000s.</text>
+      <text lang="es">Emulador de arcades, máquinas que funcionaban con fichas o monedas. Se encontraban en todos los bares y barrios entre la década de 1970 y 2000</text>
+    </text>
+  </view>
+</theme>

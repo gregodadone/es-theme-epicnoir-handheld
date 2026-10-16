@@ -1,0 +1,28 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Arcade</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Arcade Machines</text>
+      <text lang="es">Máquinas Recreativas</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Arcade</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1970 - 2010 · arcade machines</text>
+      <text lang="es">1970 - 2010 · Máquinas Recreativas</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Coin- or token-operated game machines found in bars and neighborhoods from the 1970s through the 2000s.</text>
+      <text lang="es">Máquinas que funcionaban con fichas o monedas. Se encontraban en todos los bares y barrios entre la década de 1970 y 2000</text>
+    </text>
+  </view>
+</theme>

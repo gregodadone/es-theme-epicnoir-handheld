@@ -1,0 +1,24 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Commodore 64</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Commodore 64</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1982 · 8-bit computer</text>
+      <text lang="es">1982 · Computadora 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The Commodore 64 is listed in Guinness World Records as the best-selling computer of all time.</text>
+      <text lang="es">La Commodore 64 es listada en el libro Guinness de los records como la computadora más vendida de toda la historia</text>
+    </text>
+  </view>
+</theme>

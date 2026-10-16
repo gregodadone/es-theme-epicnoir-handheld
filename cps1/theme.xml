@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Capcom CPS-1</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Capcom</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>CPS-1</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1988 · 32-bit arcade board</text>
+      <text lang="es">1988 · Placa Arcade 32-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The Capcom Play System I (CPS-1) is an arcade board developed by Capcom that ran games stored on removable ROM cartridges.</text>
+      <text lang="es">La Capcom Play System I (CPS-1) es una placa arcade desarrollada por Capcom que corría juegos alojados en cartuchos ROM removibles</text>
+    </text>
+  </view>
+</theme>

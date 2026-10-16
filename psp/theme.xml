@@ -1,0 +1,28 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Sony PSP</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sony</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <fontSize>0.13</fontSize>
+      <text>PlayStation Portable</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>2004 · 32-bit handheld console</text>
+      <text lang="es">2004 · Consola Portatil 32-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The first Sony handheld console. It could run games, play music, connect to the internet and a TV, and supported camera accessories.</text>
+      <text lang="es">Primera consola portatil de Sony. Podía correr juegos, reproducir música, conectarse a internet, a una TV y contaba con puerto para cámaras</text>
+    </text>
+  </view>
+</theme>

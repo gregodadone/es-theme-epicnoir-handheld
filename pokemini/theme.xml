@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Pokémon Mini</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Nintendo</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Pokémon Mini</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>2001 · 8-bit handheld console</text>
+      <text lang="es">2001 · Consola Portatil 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>A very small handheld console created by Nintendo, with a handful of games based on the Pokemon series.</text>
+      <text lang="es">La Pokémon Mini es una consola portatil super pequeña creada por Nintendo que contó con un puñado de juegos centrados en la saga Pokémon</text>
+    </text>
+  </view>
+</theme>

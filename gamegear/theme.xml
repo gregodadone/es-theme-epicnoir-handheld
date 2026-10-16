@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Sega GameGear</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>GameGear</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1990 · 8-bit handheld console</text>
+      <text lang="es">1990 · Consola Portatil 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>A handheld console sharing hardware with the Master System. It could run Master System games and also had its own library.</text>
+      <text lang="es">Era una consola portatil que compartía hardware con la Master System. Era retrocompatible con esta pero tenía también juegos propios</text>
+    </text>
+  </view>
+</theme>

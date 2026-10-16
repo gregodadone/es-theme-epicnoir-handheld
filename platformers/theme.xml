@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Platform Games</text>
+      <text lang="es">Género Platformas</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Platformers</text>
+      <text lang="es">Platformas</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Game genre</text>
+      <text lang="es">Género de juegos</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>In platform games, the player controls a character who jumps between platforms and avoids obstacles.</text>
+      <text lang="es">En un juego de plataformas el jugador controla a un personaje que debe saltar entre plataformas y evitar obstáculos</text>
+    </text>
+  </view>
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Wonderswan Color</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Bandai Wonderswan</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <fontSize>0.15</fontSize>
+      <text>Wonderswan Color</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1999 · 16-bit handheld console</text>
+      <text lang="es">1999 · Consola Portatil 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>The successor to the original WonderSwan was backward compatible. Both consoles could be used vertically or horizontally to suit the game.</text>
+      <text lang="es">Sucesora de Wonderswan original y retrocompatible con la misma. Ambas consolas se pueden usar tanto en vertical como horizontal para adaptarse al juego</text>
+    </text>
+  </view>
+</theme>

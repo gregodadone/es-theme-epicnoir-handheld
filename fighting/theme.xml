@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Fighting Games</text>
+      <text lang="es">Género Lucha</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Fighting</text>
+      <text lang="es">Lucha</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Game genre</text>
+      <text lang="es">Género de juegos</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>In fighting games, the player fights one-on-one against the computer or another player.</text>
+      <text lang="es">En un juego de lucha, el jugador mantiene una pelea 1 a 1 contra la CPU u otro jugador</text>
+    </text>
+  </view>
+</theme>

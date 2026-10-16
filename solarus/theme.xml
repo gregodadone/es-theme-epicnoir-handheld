@@ -1,0 +1,24 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Solarus</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Solarus</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>2006 · Game engine</text>
+      <text lang="es">2006 · Motor de juegos</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Solarus is an open-source game engine designed to let fans create their own action and role-playing games.</text>
+      <text lang="es">Solarus es un motor de juegos open source con el objetivo de permitir a los fans crear sus propios juegos de acción o RPGs</text>
+    </text>
+  </view>
+</theme>

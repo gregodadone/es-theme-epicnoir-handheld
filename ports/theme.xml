@@ -1,0 +1,30 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Ports</text>
+      <text lang="es">Portados</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Games</text>
+      <text lang="es">Juegos</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Ports</text>
+      <text lang="es">Portados</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>All eras</text>
+      <text lang="es">Todos los tiempos</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Games from every era ported to other platforms.</text>
+      <text lang="es">Juegos de todos los tiempos portados a otras plataformas</text>
+    </text>
+  </view>
+</theme>

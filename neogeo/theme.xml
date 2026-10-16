@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Neo-Geo</text>
+    </text>
+  </view>
+
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>SNK</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Neo-Geo</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1990 · 24-bit console (16 + 8)</text>
+      <text lang="es">1990 · Consola 24-bit (16 + 8)</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Released as both an arcade board and a home console, it was far more powerful than its competitors at the time.</text>
+      <text lang="es">Fue lanzada en 2 versiones, como placa para máquinas arcade y como consola doméstica. Fue muy superior a sus competidoras en su época</text>
+    </text>
+  </view>
+</theme>
